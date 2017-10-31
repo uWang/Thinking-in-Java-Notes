@@ -8,3 +8,5 @@
 * [第4章 控制执行流程](chapter4.md)
 * [第5章 初始化与清理](chapter5.md)
 	* [初始化](chapter5_1.md)
+* [第6章 访问权限控制](chapter6.md)
+* [第7章 复用类](chapter7.md)
