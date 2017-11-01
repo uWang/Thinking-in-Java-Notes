@@ -10,3 +10,5 @@
 	* [初始化](chapter5_1.md)
 * [第6章 访问权限控制](chapter6.md)
 * [第7章 复用类](chapter7.md)
+* [第8章 多态](chapter8.md)
+* [第9章 接口](chapter9.md)
