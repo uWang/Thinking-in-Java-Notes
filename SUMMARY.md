@@ -12,3 +12,5 @@
 * [第7章 复用类](chapter7.md)
 * [第8章 多态](chapter8.md)
 * [第9章 接口](chapter9.md)
+* [第10章 内部类](chapter10.md)
+* [第11章 持有对象](chapter11.md)
