@@ -14,3 +14,8 @@
 * [第9章 接口](chapter9.md)
 * [第10章 内部类](chapter10.md)
 * [第11章 持有对象](chapter11.md)
+* [第12章 通过异常处理错误](chapter12.md)
+* [第13章 字符串](chapter13.md)
+* [第14章 类型信息](chapter14.md)
+* [第15章 泛型](chapter15.md)
+* [第16章 数组](chapter16.md)
